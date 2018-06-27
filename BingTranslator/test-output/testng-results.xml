@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31126" started-at="2018-06-27T07:32:30Z" finished-at="2018-06-27T07:33:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31126" started-at="2018-06-27T07:32:30Z" finished-at="2018-06-27T07:33:01Z">
+      <class name="TestBing">
+        <test-method status="PASS" signature="InitializeBrowser()[pri:0, instance:TestBing@19e5ddf]" name="InitializeBrowser" is-config="true" duration-ms="3628" started-at="2018-06-27T07:32:30Z" finished-at="2018-06-27T07:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeBrowser -->
+        <test-method status="PASS" signature="TestOpenBingTranslator()[pri:0, instance:TestBing@19e5ddf]" name="TestOpenBingTranslator" duration-ms="1109" started-at="2018-06-27T07:32:33Z" finished-at="2018-06-27T07:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOpenBingTranslator -->
+        <test-method status="PASS" signature="CheckMenuItemTranslator()[pri:1, instance:TestBing@19e5ddf]" name="CheckMenuItemTranslator" duration-ms="25391" started-at="2018-06-27T07:32:34Z" finished-at="2018-06-27T07:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckMenuItemTranslator -->
+        <test-method status="PASS" signature="ChooseInputLanguage()[pri:2, instance:TestBing@19e5ddf]" name="ChooseInputLanguage" duration-ms="582" started-at="2018-06-27T07:33:00Z" finished-at="2018-06-27T07:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseInputLanguage -->
+        <test-method status="PASS" signature="ChooseOutputLanguage()[pri:3, instance:TestBing@19e5ddf]" name="ChooseOutputLanguage" duration-ms="115" started-at="2018-06-27T07:33:00Z" finished-at="2018-06-27T07:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChooseOutputLanguage -->
+        <test-method status="PASS" signature="EnterTextToTranslate()[pri:4, instance:TestBing@19e5ddf]" name="EnterTextToTranslate" duration-ms="194" started-at="2018-06-27T07:33:00Z" finished-at="2018-06-27T07:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterTextToTranslate -->
+        <test-method status="PASS" signature="GetTranslatedText()[pri:5, instance:TestBing@19e5ddf]" name="GetTranslatedText" duration-ms="42" started-at="2018-06-27T07:33:01Z" finished-at="2018-06-27T07:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTranslatedText -->
+      </class> <!-- TestBing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
